@@ -1,0 +1,16 @@
+/* Doshi Naman */
+* {
+  overflow: hidden;
+}
+#canvas {
+  display: block;
+  background: #10161a;
+  cursor: move;
+}
+#note {
+  position: absolute;
+  right: 8px;
+  bottom: 4px;
+  font: 10pt sans-serif;
+  color: #ccc;
+}
